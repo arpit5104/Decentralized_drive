@@ -1,0 +1,8 @@
+// npx hardhat node
+
+//deploy
+// cd client
+// npm start
+
+// localhost
+// npx hardhat run --network localhost scripts/deploy.js
